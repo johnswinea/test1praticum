@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "new_runway_test",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 0, "new_runway": "New Runway" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.008141123670043, 42.348708356538801 ], [ -71.008361029927599, 42.348488450281238 ], [ -71.023369464747759, 42.356485382497937 ], [ -71.023166656411817, 42.356705574405531 ], [ -71.008141123670043, 42.348708356538801 ] ] ] ] } }
+]
+}

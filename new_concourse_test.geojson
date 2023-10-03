@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "new_concourse_test",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "newconcour": null, "new_concou": "New Concou" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.020823510628603, 42.370045289507509 ], [ -71.02013370416357, 42.37097367262578 ], [ -71.017736447312785, 42.369874104400829 ], [ -71.018459586776032, 42.368942938516639 ], [ -71.020823510628603, 42.370045289507509 ] ] ] ] } }
+]
+}
